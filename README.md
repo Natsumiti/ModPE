@@ -2,4 +2,4 @@
 ModPEのgithubです
 
 ###Base-Gear  
-ModPEのサポートAPI
+ModPEのサポートAPI。開発停止中
